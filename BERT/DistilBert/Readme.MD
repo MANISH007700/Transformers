@@ -8,3 +8,4 @@
 - DistilBert are the miniature version of the Language Model BERT
 - They are fast and gives pretty good scores with sufficient data
 - They vectorize using DistilBertTokenizer
+## Reference : https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/ 
